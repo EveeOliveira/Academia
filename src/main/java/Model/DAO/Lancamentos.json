@@ -1,0 +1,17 @@
+[
+  {
+    "categoria": "Saldo inicial",
+    "valor": 10000.0,
+    "receita": true
+  },
+  {
+    "categoria": "Salario",
+    "valor": 5000.0,
+    "receita": false
+  },
+  {
+    "categoria": "Patrocinio",
+    "valor": 5000.0,
+    "receita": true
+  }
+]

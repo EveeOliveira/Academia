@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a8ecbc4c-05b7-4118-9d7d-00d7ce814082",
+    "nome": "Whay",
+    "descricao": "Suplemento alimentar",
+    "quantidade": 44,
+    "valorCompra": 22.5,
+    "valorVenda": 50.0
+  },
+  {
+    "id": "3df99658-cd72-4e1b-b541-717dcfae7198",
+    "nome": "Creatina",
+    "descricao": "não sei o que faz",
+    "quantidade": 50,
+    "valorCompra": 20.0,
+    "valorVenda": 50.0
+  },
+  {
+    "id": "19f1b5af-4b07-4e15-9568-6e71269e964b",
+    "nome": "Spinning",
+    "descricao": "Aula de spinning",
+    "quantidade": 30,
+    "valorCompra": 0.0,
+    "valorVenda": 50.0
+  },
+  {
+    "id": "e39a5b5f-cb92-48ae-bd2f-73c3f087c9c3",
+    "nome": "Musculacao",
+    "descricao": "Aula de musculacao",
+    "quantidade": 30,
+    "valorCompra": 0.0,
+    "valorVenda": 50.0
+  },
+  {
+    "id": "e9afc647-16ff-4b30-b63c-ddf6af0cb4c4",
+    "nome": "Fit Dance",
+    "descricao": "Aula de fit dance",
+    "quantidade": 29,
+    "valorCompra": 0.0,
+    "valorVenda": 50.0
+  },
+  {
+    "id": "1da668ad-89c8-44f0-bb3d-c58f90430686",
+    "nome": "Novo Produto",
+    "descricao": "sem ideia ainda",
+    "quantidade": 50,
+    "valorCompra": 10.0,
+    "valorVenda": 30.0
+  }
+]

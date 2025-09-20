@@ -1,0 +1,58 @@
+[
+  {
+    "cargo": "Administrador",
+    "salario": 5000.0,
+    "usuario": "evelen",
+    "senha": "evelen",
+    "nome": "evelen",
+    "sobrenome": "pinheiro",
+    "cpf": "12312312312",
+    "cpfAnonimizado": "Desconhecido",
+    "endereco": "rua",
+    "telefone": "12328451",
+    "email": "evelen",
+    "id": "c374ec2a-7a60-45bf-b002-a90efec74aa5"
+  },
+  {
+    "cargo": "Colaborador",
+    "salario": 5000.0,
+    "usuario": "Teste",
+    "senha": "teste",
+    "nome": "Teste",
+    "sobrenome": "teste",
+    "cpf": "xxx3123xxxx",
+    "cpfAnonimizado": "Desconhecido",
+    "endereco": "rua dos bobo n 0",
+    "telefone": "986354120",
+    "email": "teste",
+    "id": "1b7f5b1b-3ae7-442b-85c3-30a633d945e1"
+  },
+  {
+    "cargo": "Colaborador",
+    "salario": 5000.0,
+    "usuario": "edjfn",
+    "senha": "caim",
+    "nome": "caim",
+    "sobrenome": "caim",
+    "cpf": "12312312336",
+    "cpfAnonimizado": "Desconhecido",
+    "endereco": "rwsdugjn",
+    "telefone": "8635421",
+    "email": "caim@gmail.com",
+    "id": "6ff9e62f-f34f-4edb-8689-bc17f0c96568"
+  },
+  {
+    "cargo": "Colaborador",
+    "salario": 3000.0,
+    "usuario": "usuario1",
+    "senha": "senha1",
+    "nome": "Carlos",
+    "sobrenome": "Pereira",
+    "cpf": "12345678901",
+    "cpfAnonimizado": "12345678901",
+    "endereco": "Rua X",
+    "telefone": "987654321",
+    "email": "carlos@email.com",
+    "id": "60d8317b-037b-4b3d-827f-425b9acdbf08"
+  }
+]

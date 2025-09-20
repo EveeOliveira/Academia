@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/evele/.m2/repository/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar;C:/Users/evele/.m2/repository/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar;C:/Users/evele/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE220/AbsoluteLayout-RELEASE220.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/evele/Documents/NetBeansProjects/Academia/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/evele/Documents/NetBeansProjects/Academia/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Academia 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Academia 1.0-SNAPSHOT API'

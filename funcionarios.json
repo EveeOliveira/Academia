@@ -1,0 +1,28 @@
+[
+  {
+    "cargo": "Administrador",
+    "salario": 5000.0,
+    "usuario": "evelen",
+    "senha": "evelen",
+    "nome": "Evelen",
+    "sobrenome": "Pinheiro",
+    "cpf": "12312312336",
+    "endereco": "Rua dos Bobos n0 veredinha",
+    "telefone": "39999999999",
+    "email": "evelen",
+    "id": "5ad4dab1-2d40-4c0b-9e2e-f62cc75f7a12"
+  },
+  {
+    "cargo": "Administrador",
+    "salario": 50000.0,
+    "usuario": "Joaninha",
+    "senha": "Joanne123",
+    "nome": "Joanne",
+    "sobrenome": "Oliveira",
+    "cpf": "12312312336",
+    "endereco": "Rua Joaquim num sei que lá",
+    "telefone": "99999999999",
+    "email": "meumo@gmail.com",
+    "id": "535c1257-3cb9-4111-9ae1-a7ce8de3b33f"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "dataHora": "05/11/2024 21:26",
+    "tipo": "Entrada"
+  },
+  {
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "dataHora": "06/11/2024 12:22",
+    "tipo": "Saída"
+  },
+  {
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "dataHora": "06/11/2024 12:25",
+    "tipo": "Entrada"
+  },
+  {
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "dataHora": "06/11/2024 12:26",
+    "tipo": "Saída"
+  },
+  {
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "dataHora": "06/11/2024 12:26",
+    "tipo": "Entrada"
+  },
+  {
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "dataHora": "06/11/2024 12:26",
+    "tipo": "Saída"
+  },
+  {
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "dataHora": "06/11/2024 12:26",
+    "tipo": "Entrada"
+  },
+  {
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "dataHora": "06/11/2024 12:56",
+    "tipo": "Saída"
+  },
+  {
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "dataHora": "10/11/2024 12:10",
+    "tipo": "Entrada"
+  },
+  {
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "dataHora": "10/11/2024 12:10",
+    "tipo": "Saída"
+  }
+]

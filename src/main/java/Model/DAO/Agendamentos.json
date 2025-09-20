@@ -1,0 +1,83 @@
+[
+  {
+    "id": "2",
+    "tipoAula": "Spinning",
+    "tipoMatricula": "Mensal",
+    "status": "Confirmado",
+    "aluno": {
+      "cartao": "5555-6666-7777-8888",
+      "nome": "Maria Clara",
+      "sobrenome": "Oliveira",
+      "cpf": "98765432100",
+      "cpfAnonimizado": "98765432100",
+      "endereco": "Rua C",
+      "telefone": "999888777",
+      "email": "maria.clara@email.com",
+      "id": "34427dc6-5644-45c9-9046-876a9596f3f5"
+    },
+    "valor": 100.0,
+    "dataAula": "10/11/2024 15:30",
+    "dataAgendamento": "03/11/2024 13:33"
+  },
+  {
+    "id": "567b7827-6327-42a1-a722-0085a4836c3a",
+    "tipoAula": "Spinnig",
+    "tipoMatricula": "Mensal",
+    "status": "Confirmado",
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "valor": 400.0,
+    "instrutor": "Marcia",
+    "dataAula": "24/12/2024 15:30",
+    "dataAgendamento": "06/11/2024 12:52"
+  },
+  {
+    "id": "5fde97d0-7318-4438-a2e8-ad8114900a1b",
+    "tipoAula": "Fit Dance",
+    "tipoMatricula": "Diária",
+    "status": "A confirmar",
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    },
+    "valor": 40.0,
+    "instrutor": "Marcia",
+    "dataAula": "12/12/2024 18:00",
+    "dataAgendamento": "06/11/2024 12:55"
+  },
+  {
+    "id": "cf288152-246a-4422-b3d2-30c814668d9e",
+    "tipoAula": "Fit Dance",
+    "tipoMatricula": "Mensal",
+    "status": "A confirmar",
+    "aluno": {
+      "cartao": "1111-2222-3333-4444",
+      "nome": "Laura",
+      "sobrenome": "Machado",
+      "cpf": "1234565550",
+      "cpfAnonimizado": "1234565550",
+      "endereco": "Rua A",
+      "telefone": "123456789",
+      "email": "joao@email.com",
+      "id": "fef1e21b-d069-4297-8727-3fbba06affc2"
+    },
+    "valor": 100.0,
+    "instrutor": "Marcia",
+    "dataAula": "07/10/2024 15:30",
+    "dataAgendamento": "06/11/2024 14:05"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "produto": {
+      "id": "a8ecbc4c-05b7-4118-9d7d-00d7ce814082",
+      "nome": "Whay",
+      "descricao": "Suplemento alimentar",
+      "quantidade": 46,
+      "valorCompra": 22.5,
+      "valorVenda": 50.0
+    },
+    "quantidade": 2,
+    "valorTotal": 100.0,
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    }
+  },
+  {
+    "produto": {
+      "id": "a8ecbc4c-05b7-4118-9d7d-00d7ce814082",
+      "nome": "Whay",
+      "descricao": "Suplemento alimentar",
+      "quantidade": 44,
+      "valorCompra": 22.5,
+      "valorVenda": 50.0
+    },
+    "quantidade": 2,
+    "valorTotal": 100.0,
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    }
+  },
+  {
+    "produto": {
+      "id": "e9afc647-16ff-4b30-b63c-ddf6af0cb4c4",
+      "nome": "Fit Dance",
+      "descricao": "Aula de fit dance",
+      "quantidade": 29,
+      "valorCompra": 0.0,
+      "valorVenda": 50.0
+    },
+    "quantidade": 1,
+    "valorTotal": 50.0,
+    "aluno": {
+      "cartao": "6435168345685",
+      "nome": "evelen",
+      "sobrenome": "pinheiro",
+      "cpf": "12312312312",
+      "endereco": "rua",
+      "telefone": "12328451",
+      "email": "evelen",
+      "id": "c374ec2a-7a60-45bf-b002-a90ecaevaevelefec74aa5"
+    }
+  }
+]
